@@ -1,12 +1,10 @@
 # chrome-dino
-Google Chrome Dinosaur Game, but made with C++ and SFML
+Google Chrome Dinosaur Game, made with C++ and SFML3.x
+
 > Similar to <chrome://dino>, only Google Chrome!
 
----
-
-![chrome-dino play](./chrome-dino-play.png) 
-
----
+## Main reference
+Link: https://github.com/terroo/chrome-dino
 
 ## Dependencies
 + C++ compiler: [g++](https://gcc.gnu.org/) or [clang++](https://clang.llvm.org/)
@@ -29,6 +27,6 @@ Run:
 ```
 ---
 
-> The step by step was shown in the video: <https://youtu.be/SEImvXJ88sE>
+Just enjoy! :D
 
 
