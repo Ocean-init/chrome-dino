@@ -8,7 +8,7 @@ Link: https://github.com/terroo/chrome-dino
 
 ## Dependencies
 + C++ compiler: [g++](https://gcc.gnu.org/) or [clang++](https://clang.llvm.org/)
-+ [SFML](https://www.sfml-dev.org/)
++ SFML3.x: [SFML](https://www.sfml-dev.org/)
 
 ---
 
