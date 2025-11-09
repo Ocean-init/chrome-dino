@@ -16,7 +16,7 @@ Link: https://github.com/terroo/chrome-dino
 
 Compile:
 ```bash
-git clone https://github.com/terroo/chrome-dino
+git clone https://github.com/Ocean-init/chrome-dino
 cd chrome-dino
 g++ main.cpp -lsfml-graphics -lsfml-window -lsfml-system
 ```
